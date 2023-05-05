@@ -1,0 +1,7 @@
+name: ScuffedPlugin
+version: '${project.version}'
+main: dev.luxxo.scuffedplugin.ScuffedPlugin
+api-version: 1.19
+prefix: XD
+authors: [Luxxo]
+description: a plugin
